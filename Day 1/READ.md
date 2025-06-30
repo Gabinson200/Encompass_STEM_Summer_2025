@@ -51,9 +51,6 @@ a(t) = 4 - 0.5t   (in meters per second squared)
 * The arm operates for `t = 0` to `t = 6` seconds.
 * At the end of 6 seconds, the object is released.
 * The release velocity makes a **45° angle above the horizontal**.
-* The applied **force vector** during motion is:
-  `F = <12, 6>` (in Newtons)
-* The object is displaced a total of **54 meters**, in the direction of the velocity.
 
 ---
 
@@ -109,43 +106,7 @@ v = <10.61, 10.61> m/s
 
 ---
 
-### 4. Compute Work Done
 
-Displacement is 54 meters in the same direction as velocity. First, normalize the velocity vector:
-
-```
-|v| = 15
-unit_v = <10.61 / 15, 10.61 / 15> = <0.707, 0.707>
-```
-
-Scale by displacement:
-
-```
-d = 54 * unit_v = <38.2, 38.2>
-```
-
-Force vector:
-
-```
-F = <12, 6>
-```
-
-Dot product (Work):
-
-```
-W = F ⋅ d = (12)(38.2) + (6)(38.2)
-  = 458.4 + 229.2 = 687.6 Joules
-```
-
----
-
-### 5. Compute Average Power
-
-```
-P = W / t = 687.6 J / 6 s = 114.6 Watts
-```
-
----
 
 ## ✅ Final Answers
 
@@ -154,5 +115,3 @@ P = W / t = 687.6 J / 6 s = 114.6 Watts
 | Velocity function     | `v(t) = 4t - 0.25t²` |
 | Velocity at `t = 6 s` | `15 m/s`             |
 | Velocity vector       | `<10.61, 10.61> m/s` |
-| Work done             | `687.6 J`            |
-| Average power         | `114.6 W`            |
