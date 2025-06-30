@@ -59,8 +59,6 @@ a(t) = 4 - 0.5t   (in meters per second squared)
 1. Compute the velocity function `v(t)` by integrating acceleration.
 2. Calculate the magnitude of velocity at `t = 6` seconds.
 3. Decompose the velocity into horizontal and vertical components.
-4. Compute the work done by the applied force using the **dot product**.
-5. Compute the average power used over the interval.
 
 ---
 
