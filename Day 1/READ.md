@@ -33,6 +33,7 @@
     - Integrals: Understanding accumulation (e.g., position from velocity).
     - Relate these concepts to robot motion and sensor data analysis (e.g., how a robot knows its speed or position).
 
+# [Canva link](https://www.canva.com/design/DAGrw2_cDe4/eiC0xm1mHk8-RZGQ9VvuHg/edit?utm_content=DAGrw2_cDe4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ---
 # Challenge
 
