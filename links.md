@@ -11,3 +11,5 @@
 
 ### Computational Design
 - [nature prints](https://www.tinkercad.com/lessonplans/recreate-a-pattern-found-in-nature/share)
+
+- [class link](https://www.tinkercad.com/joinclass/37CI4TJQR)
