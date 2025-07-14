@@ -5,3 +5,9 @@
 - [loops](https://wokwi.com/projects/436397855317013505)
 - [simple combined](https://wokwi.com/projects/436401778582077441)
 - [pass by val v ref](https://wokwi.com/projects/436407226838423553)
+
+
+## TinkerCAD
+
+### Computational Design
+- [nature prints](https://www.tinkercad.com/lessonplans/recreate-a-pattern-found-in-nature/share)
